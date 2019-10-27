@@ -7,7 +7,7 @@ An Amazon SageMaker notebook instance is a fully managed machine learning comput
 
 1. Go to https://dashboard.eventengine.run
 
-2. Enter the hash provided by the workshop administrator, and click on Proceed
+2. Enter the hash provided by the workshop administrator and click on Proceed
 
 3. Click on AWS Console
 
