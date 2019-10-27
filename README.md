@@ -48,7 +48,7 @@ An Amazon SageMaker notebook instance is a fully managed machine learning comput
 	- Automatic Model Tuning
 
    c. tf-distributed-training.ipynb - this notebook demonstrates the following features:
-	- Distributed Training with Parameter Servers
-	- Distributed Training with Horovod
+	- Distributed Training using Parameter Servers
+	- Distributed Training using Horovod
    
 10. Choose the Ipython notebook and follow the instructions in Jupyter Notebook. 
