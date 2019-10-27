@@ -33,13 +33,13 @@ An Amazon SageMaker notebook instance is a fully managed machine learning comput
 
 9. In the Jupyter Notebook console, in the Files tab, you will see the following. Run through the notebooks cell by cell. Order in which you execute the notebooks doesn't matter but it is recommended to follow the notebooks as listed below.
     
-   a. sentiment-analysis.ipynb - this notebook demonstrates the following features:
+   a. Lab 1 (sentiment-analysis.ipynb) - this notebook demonstrates the following features:
 	- A simple Natural Language Processing (NLP) model
 	- Local Mode Training
 	- Hosted Training Mode
 	- Batch Prediction
 
-   b. tf-boston-housing.ipynb - this notebook demonstrates the following features:
+   b. Lab 2 (tf-boston-housing.ipynb) - this notebook demonstrates the following features:
 	- A simple Regression model
 	- Local Mode Training
 	- Local Mode Endpoint
@@ -47,7 +47,7 @@ An Amazon SageMaker notebook instance is a fully managed machine learning comput
 	- Hosted Endpoint
 	- Automatic Model Tuning
 
-   c. tf-distributed-training.ipynb - this notebook demonstrates the following features:
+   c. Lab 3 (tf-distributed-training.ipynb) - this notebook demonstrates the following features:
 	- Distributed Training using Parameter Servers
 	- Distributed Training using Horovod
    
